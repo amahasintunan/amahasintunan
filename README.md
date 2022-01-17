@@ -1,5 +1,4 @@
-A software engineer with experience in development on Windows, Mac and Unix/Linux platforms specialized in Database server/client software and 
-globalization development.
+I'm a software engineer with experience in Database server/client software and globalization development on Windows, Mac and Unix/Linux platforms.
 
 Linkedin: http://www.linkedin.com/in/ananmahasintunan
 
